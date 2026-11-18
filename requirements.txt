@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+python-multipart
+ultralytics==8.4.210
+onnxruntime
+huggingface_hub
+pillow
